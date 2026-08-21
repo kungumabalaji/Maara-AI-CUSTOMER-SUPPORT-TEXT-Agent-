@@ -23,7 +23,8 @@ def load_vector_database():
     with open(METADATA_PATH, "r", encoding="utf-8") as file:
         metadata = json.load(file)
 
-    print(f"Loaded {index.ntotal} vectors and {len(metadata)} metadata records.")
+    print(
+        f"Loaded {index.ntotal} vectors and {len(metadata)} metadata records.")
     return index, metadata
 
 

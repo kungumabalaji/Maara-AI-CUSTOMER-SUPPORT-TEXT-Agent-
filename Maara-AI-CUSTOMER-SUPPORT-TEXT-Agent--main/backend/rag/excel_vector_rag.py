@@ -217,12 +217,9 @@ def csv_to_vector_rag(file_path: str):
     return index, metadata
 
 
-
-
 # ============================================================
 # RUN
 # ============================================================
-
 if __name__ == "__main__":
     print("Starting vector database creation...")
     csv_to_vector_rag(
