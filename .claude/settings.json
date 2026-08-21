@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(npm view *)",
+      "Bash(npm run *)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:5173/)",
+      "Bash(chromium-cli --help)",
+      "Bash(npx --yes playwright --version)",
+      "Bash(npx --yes playwright install chromium)",
+      "Bash(node maara_screenshot_check2.mjs)",
+      "Read(//c/Users/Admin/Downloads/maara_screens/**)",
+      "Bash(rm -rf /c/Users/Admin/Downloads/maara_screens /c/Users/Admin/Downloads/maara_screenshot_check.mjs /c/Users/Admin/Downloads/maara_screenshot_check2.mjs /c/Users/Admin/Downloads/node_modules /c/Users/Admin/Downloads/package.json /c/Users/Admin/Downloads/package-lock.json)",
+      "Bash(netstat -ano)",
+      "Bash(awk '{print $5}')",
+      "Bash(xargs -r -I{} taskkill //F //PID {})",
+      "Bash(pip --version)",
+      "Bash(disown)",
+      "Read(//tmp/**)",
+      "Bash(sleep 2 && cat /tmp/frontend-dev.log)",
+      "Bash(pip show *)",
+      "Bash(python -c \"import sys; print\\(sys.executable\\)\")"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\Admin\\Downloads"
+    ]
+  }
+}

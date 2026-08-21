@@ -1,0 +1,74 @@
+category,sub_category,question,answer
+faq_general,,How long does a screen repair take?,"Most screen repairs are completed the same day, often while you wait, depending on part availability. [PLACEHOLDER: confirm typical turnaround, e.g. 30-60 mins for common phone/laptop models]."
+faq_general,,Do I need to book an appointment?,"You're welcome to walk in during opening hours, but booking ahead helps us make sure the part you need is in stock. [PLACEHOLDER: confirm if online booking exists]."
+faq_general,,How much does a repair cost?,"Pricing depends on the device, model, and fault. Send us your device model and issue and we'll give you a quote. [PLACEHOLDER: add a price list or price-range table]."
+faq_general,,Can you fix devices other than phones and laptops?,"Yes — we also repair tablets, desktop PCs, and Mac computers, plus offer data recovery and virus removal."
+faq_general,,Do you offer a while-you-wait service?,"Yes, E-Tech offers a while-you-wait service for many common repairs, subject to parts being in stock."
+warranty_policy,,How long is the repair warranty?,[PLACEHOLDER: e.g. 'All repairs come with a 3-month warranty covering the part and workmanship.'] Please confirm exact warranty length with our team.
+warranty_policy,,What does the warranty cover?,"[PLACEHOLDER] Typically a repair warranty covers the specific part replaced and the workmanship of the repair — it does not usually cover new/unrelated damage, liquid damage after the repair, or accidental drops."
+warranty_policy,,What voids the warranty?,"[PLACEHOLDER] Common exclusions: opening the device elsewhere after repair, further physical/liquid damage, or software issues unrelated to the original repair."
+warranty_policy,,Do I need a receipt to claim warranty?,"Yes, please keep your repair receipt/invoice as proof of the repair date and work carried out."
+repair_policy,,What's covered in a screen repair?,"A screen repair covers replacement of the damaged screen/digitiser. It does not automatically cover other faults found during diagnosis (e.g. battery, charging port) unless agreed separately."
+repair_policy,,What's not covered by your repairs?,"Pre-existing issues unrelated to the reported fault, further accidental damage after collection, and cosmetic wear are generally not covered. [PLACEHOLDER: confirm exact exclusions]."
+repair_policy,,Will you tell me if you find another problem while repairing?,"Yes — if we find an additional fault during diagnosis or repair, we'll contact you before carrying out any extra work or charging extra."
+supported_devices,,What brands of phones do you repair?,"We repair a wide range of smartphones including iPhone and Samsung, plus most Android brands. [PLACEHOLDER: confirm full brand list]."
+supported_devices,,Do you repair laptops?,"Yes, we repair laptops from all major brands, including Apple MacBooks, Dell, HP, Lenovo, Asus, and Acer/Gateway."
+supported_devices,,Do you repair tablets?,"Yes, tablet repairs are one of our listed services."
+supported_devices,,Do you repair Apple/Mac products?,"Yes — we offer MacBook and Mac repairs, screen replacement, and data recovery."
+repair_types,,Do you fix cracked screens?,"Yes, screen and glass repairs/replacements are one of our core services for phones, laptops, and tablets."
+repair_types,,Do you replace batteries?,"Yes, battery replacement is available for phones and laptops. [PLACEHOLDER: confirm which models are supported]."
+repair_types,,Can you fix a broken charging port?,"Yes, we repair charging/power jack ports on both phones and laptops."
+repair_types,,Can you fix water/liquid damage?,"Yes, liquid damage repair is one of our listed laptop repair services. Bring the device in as soon as possible and avoid turning it on."
+repair_types,,Do you unlock phones?,"Yes, mobile phone unlocking is one of our services."
+repair_types,,Do you build custom gaming PCs?,"Yes, gaming PC assembly is one of our listed services."
+diagnostic_information,,What happens when I bring my device in for diagnosis?,"Our technician inspects the device, identifies the fault, and gives you a quote and estimated repair time before any work begins. [PLACEHOLDER: confirm if diagnosis is free or has a fee]."
+diagnostic_information,,Is diagnosis free?,[PLACEHOLDER: confirm — many repair shops offer free diagnosis with no obligation to repair].
+diagnostic_information,,How long does diagnosis take?,Most diagnostics can be done on the spot or within the same day. [PLACEHOLDER: confirm typical wait].
+home_repair_policy,,Do your technicians visit homes?,"[PLACEHOLDER: confirm — the listing mentions 'Home Computer Services', which may include home visits. Please verify with the shop whether on-site/home repair is offered and any callout fee.]"
+home_repair_policy,,Can someone come to my office to fix my PC?,[PLACEHOLDER: confirm on-site business support availability].
+collection_delivery_policy,,Can I post my device to you for repair?,"[PLACEHOLDER: confirm if E-Tech accepts mail-in repairs, or if it's in-store drop-off only at 26 Tooting High St, London SW17 0RG.]"
+collection_delivery_policy,,Do you offer collection or delivery?,[PLACEHOLDER: confirm pickup/delivery radius and any charges].
+collection_delivery_policy,,What condition will my device be returned in?,"Your device is returned cleaned and tested after repair, with the fault resolved and any replaced parts disposed of unless you request them back."
+cancellation_policy,,Can I cancel my repair booking?,[PLACEHOLDER: confirm cancellation notice period and whether any deposit is refundable].
+cancellation_policy,,What if I decide not to go ahead after diagnosis?,You're not obligated to proceed after diagnosis. [PLACEHOLDER: confirm if a diagnostic fee applies if you decline the repair].
+refund_policy,,Can I get a refund if the repair doesn't fix the issue?,"[PLACEHOLDER: confirm refund policy — typically the shop will re-attempt the repair first, then offer a refund/replacement part if it can't be resolved.]"
+refund_policy,,Do you refund parts I don't want fitted?,[PLACEHOLDER: confirm parts refund/exchange policy].
+privacy_policy,,Will you access my personal data on my device?,"We only access data on your device as needed to diagnose or repair the fault, and we recommend backing up and removing sensitive data beforehand. [PLACEHOLDER: link to a formal data protection/privacy statement if E-Tech has one.]"
+privacy_policy,,Do you keep a copy of my data?,"[PLACEHOLDER: confirm data retention policy, especially for data recovery jobs]."
+opening_hours,,What are your opening hours?,Mon: 10:00-20:00 | Tue: 10:00-14:00 & 15:30-20:00 | Wed: 10:00-14:00 & 15:00-20:30 | Thu: 10:00-14:00 & 15:00-20:00 | Fri: 10:00-20:00 | Sat: 10:00-21:00 | Sun: 12:00-17:00
+opening_hours,,Are you open today?,"We're open most days — check today's hours above, or call 07429 656565 to confirm."
+opening_hours,,Are you open on Sundays?,"Yes, we're open Sundays from 12:00 to 17:00."
+shop_information,,Where are you located?,"We're at 26 Tooting High St, London, SW17 0RG."
+shop_information,,What's your phone number?,You can reach us on 07429 656565.
+shop_information,,How long have you been in business?,E-Tech has been repairing devices for around 10 years and has a 4.6/5 rating from customer reviews.
+general_service_description,,What does E-Tech do?,"E-Tech is a computer and phone repair specialist offering laptop and desktop repairs, screen replacement, power jack repair, liquid damage repair, data recovery, virus removal, mobile unlocking, gaming PC builds, and Mac/MacBook repairs."
+general_service_description,,Are you specialists or a general repair shop?,We're specialists — our team focuses specifically on device repair and offers competitive pricing and while-you-wait service where possible.
+customer_preparation_instructions,,Should I back up my phone before bringing it in?,"Yes, we recommend backing up your data beforehand, especially for repairs involving data recovery, screen, or motherboard work, in case data loss occurs during repair."
+customer_preparation_instructions,,Should I remove my SIM card?,"Yes, please remove your SIM card and memory card before dropping your phone off, unless the issue is related to the SIM tray itself."
+customer_preparation_instructions,,Should I remove my passcode or Find My iPhone/Google lock?,Yes — please disable Find My iPhone / Google Find My Device and provide your passcode if needed so we can fully test the repair. We cannot complete some repairs without this.
+customer_preparation_instructions,,What should I bring with my laptop?,"Please bring the charger/power adapter if the issue is power-related, and back up important files beforehand."
+laptop_body_repair,Acer / Gateway,Can you fix a broken hinge on my Acer laptop?,"Yes, we repair and replace broken or loose hinges on Acer and Gateway laptops. [PLACEHOLDER: price range, e.g. £XX-£XX depending on model]."
+laptop_body_repair,Acer / Gateway,"My Acer laptop's screen won't stay up, can you fix it?",That's usually a worn or broken hinge mechanism — we can repair or replace the hinge assembly on most Acer and Gateway models.
+laptop_body_repair,Acer / Gateway,"My Gateway laptop lid is cracked, can you replace it?","Yes, we can source and fit a replacement top lid/cover for most Gateway and Acer laptop models. [PLACEHOLDER: confirm parts lead time for older Gateway models, which can be harder to source]."
+laptop_body_repair,Acer / Gateway,"The plastic casing on my Acer laptop is cracked around the keyboard, can this be fixed?","Yes, we repair or replace cracked palmrests and keyboard bezels on Acer laptops."
+laptop_body_repair,Acer / Gateway,How much does an Acer laptop chassis repair cost?,[PLACEHOLDER: price depends on model and part availability — provide quote table for common Acer Aspire/Swift/Nitro/Gateway series].
+laptop_body_repair,Dell,Can you replace a cracked Dell laptop lid?,"Yes, we replace top lids/covers on Dell laptops including Inspiron, Latitude, XPS, and Vostro series. [PLACEHOLDER: confirm model coverage and pricing]."
+laptop_body_repair,Dell,"My Dell Latitude hinge is broken, can it be repaired?","Yes, hinge repair/replacement is available for Dell Latitude and other Dell laptop lines."
+laptop_body_repair,Dell,"The palmrest on my Dell laptop is cracked around the trackpad, can you fix it?","Yes, we can replace a cracked palmrest assembly, which often includes the trackpad and keyboard bezel on Dell models."
+laptop_body_repair,Dell,"My Dell laptop's bottom base is broken, do you replace it?","Yes, we can replace the bottom base cover/chassis on most Dell laptop models."
+laptop_body_repair,Dell,Do you repair Dell XPS body damage?,"Yes, though XPS models use premium materials (aluminium/carbon fibre) so parts and repair costs may be higher. [PLACEHOLDER: confirm XPS-specific pricing/lead time]."
+laptop_body_repair,Lenovo,Can you fix a broken hinge on my Lenovo ThinkPad?,"Yes, hinge repair and replacement is available for Lenovo ThinkPad, IdeaPad, and Yoga laptops."
+laptop_body_repair,Lenovo,"My Lenovo Yoga's hinge feels loose after using tablet mode, can this be fixed?","Yes — Yoga's 360-degree hinges see more wear, and we can repair or replace worn hinge mechanisms."
+laptop_body_repair,Lenovo,"The lid on my Lenovo laptop is cracked, can you replace it?","Yes, we replace top lid covers on most Lenovo ThinkPad and IdeaPad models. [PLACEHOLDER: confirm pricing per series]."
+laptop_body_repair,Lenovo,"My ThinkPad's keyboard bezel/palmrest is cracked, can you fix it?","Yes, we replace cracked palmrest and keyboard bezel assemblies on Lenovo laptops."
+laptop_body_repair,Lenovo,"The bottom cover of my Lenovo laptop is broken, can you replace it?","Yes, bottom base cover replacement is available for Lenovo laptops. [PLACEHOLDER: confirm turnaround, as some ThinkPad parts may need ordering in.]"
+laptop_body_repair,Asus,Can you replace a broken hinge on my Asus laptop?,"Yes, we repair and replace hinges on Asus laptops including VivoBook, ZenBook, and ROG gaming laptops."
+laptop_body_repair,Asus,"My Asus ROG laptop's lid is cracked, can you fix it?","Yes, we can replace the top lid on Asus ROG and other Asus laptop models. [PLACEHOLDER: confirm parts availability for gaming-specific chassis designs.]"
+laptop_body_repair,Asus,"The keyboard surround on my Asus laptop is cracked, can this be repaired?","Yes, we replace cracked palmrest/keyboard bezel assemblies on Asus laptops."
+laptop_body_repair,Asus,"My Asus laptop's hinge cover snapped off, can you fix that?","Yes, we can replace broken hinge caps and covers on Asus laptops."
+laptop_body_repair,Asus,Can you fix a warped or bent Asus laptop chassis after a drop?,"In many cases yes, depending on the extent of the damage — we'll assess whether the chassis can be straightened/repaired or needs replacing."
+laptop_body_repair,HP,Can you fix a broken hinge on my HP laptop?,"Yes, we repair and replace hinges on HP Pavilion, EliteBook, Envy, and Spectre laptops."
+laptop_body_repair,HP,"My HP laptop lid is cracked, can you replace it?","Yes, we replace top lid covers on most HP laptop models. [PLACEHOLDER: confirm pricing/lead time by series.]"
+laptop_body_repair,HP,"The palmrest on my HP laptop is cracked, can this be repaired?","Yes, we replace cracked palmrest and keyboard bezel assemblies on HP laptops."
+laptop_body_repair,HP,"My HP Spectre's hinge is stiff/loose, can you fix that?","Yes, we can repair or replace the hinge mechanism on HP Spectre and similar premium HP models."
+laptop_body_repair,HP,"The bottom cover of my HP laptop cracked after a drop, can you replace it?","Yes, bottom base cover replacement is available for HP laptops. [PLACEHOLDER: confirm price and turnaround.]"

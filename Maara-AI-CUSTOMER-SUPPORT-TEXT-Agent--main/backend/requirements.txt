@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+groq
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+openpyxl
