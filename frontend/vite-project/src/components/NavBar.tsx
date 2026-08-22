@@ -5,6 +5,7 @@ const LINKS: { id: Page; label: string }[] = [
   { id: 'chat', label: 'Support chat' },
   { id: 'widget', label: 'Widget preview' },
   { id: 'inbox', label: 'Agent inbox' },
+  { id: 'repairs', label: 'Repairs' },
   { id: 'admin', label: 'Admin settings' },
 ]
 

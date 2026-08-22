@@ -20,7 +20,7 @@ GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 if not GROQ_API_KEY:
     raise ValueError("GROQ_API_KEY environment variable is not set.")
 
-BACKEND_BASE_URL = os.getenv("BACKEND_BASE_URL", "http://localhost:8000")
+FRONTEND_BASE_URL = os.getenv("FRONTEND_BASE_URL", "http://localhost:5173")
 
 llm = ChatGroq(model="openai/gpt-oss-120b", api_key=GROQ_API_KEY)
 confirmation_store.init_table()
@@ -196,8 +196,8 @@ def service_node(state: RepairAgentState) -> dict:
             customer_email=customer_email,
             summary=summary,
         )
-        confirm_url = f"{BACKEND_BASE_URL}/api/repair/confirm/{token}"
-        notification_service.send_owner_alert_email(summary=summary, confirm_url=confirm_url)
+        dashboard_url = f"{FRONTEND_BASE_URL}/?view=dashboard&token={token}"
+        notification_service.send_owner_alert_email(summary=summary, dashboard_url=dashboard_url)
     except Exception:
         print("ERROR: failed to send owner alert email")
         traceback.print_exc()

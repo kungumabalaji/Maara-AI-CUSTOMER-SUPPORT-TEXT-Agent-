@@ -3,6 +3,8 @@
 !**/.env.example
 __pycache__/
 *.pyc
-Maara-AI-CUSTOMER-SUPPORT-TEXT-Agent--main/backend/rag/chunks.pkl
-Maara-AI-CUSTOMER-SUPPORT-TEXT-Agent--main/backend/rag/etech_faiss.index
-Maara-AI-CUSTOMER-SUPPORT-TEXT-Agent--main/backend/rag/etech_metadata.json
+backend/rag/chunks.pkl
+backend/rag/etech_faiss.index
+backend/rag/etech_metadata.json
+node_modules/
+dist/

@@ -2,7 +2,6 @@ fastapi
 uvicorn[standard]
 pydantic
 python-dotenv
-groq
 pandas
 numpy
 faiss-cpu
@@ -13,9 +12,3 @@ langgraph-checkpoint-postgres==2.0.25
 langchain-groq
 psycopg[binary]
 resend
-
-langgraph
-langchain
-langchain_groq
-langchain_community 
-
