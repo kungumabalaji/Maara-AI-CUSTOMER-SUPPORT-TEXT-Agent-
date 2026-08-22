@@ -19,6 +19,7 @@ export default function ChatPanel({ botConfig, variant = 'full' }: ChatPanelProp
   const [draft, setDraft] = useState('')
   const [isTyping, setIsTyping] = useState(false)
   const [handoffRequested, setHandoffRequested] = useState(false)
+  const [threadId, setThreadId] = useState<string | undefined>(undefined)
 
   async function send(value = draft) {
     const trimmed = value.trim()
@@ -29,7 +30,8 @@ export default function ChatPanel({ botConfig, variant = 'full' }: ChatPanelProp
     setIsTyping(true)
 
     try {
-      const { answer } = await sendChatMessage(trimmed)
+      const { answer, threadId: nextThreadId } = await sendChatMessage(trimmed, threadId)
+      setThreadId(nextThreadId)
       setMessages((current) => [
         ...current,
         { id: `a-${current.length}`, role: 'assistant', text: answer, time: timeNow() },
